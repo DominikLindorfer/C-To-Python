@@ -5,7 +5,7 @@ The C++ file is compiled as a library which is then imported into Python.
 
 ## Usage & Compilation on Linux:
 
-To execute the current code execute
+To compile and execute the current code execute
 ```
 ./MakeFile.sh
 ```
